@@ -12,7 +12,9 @@
     "express": "^4.17.1",
     "kerberos": "^1.1.6",
     "parse-dashboard": "^2.1.0
-  },  "scripts": {    "start": "node index.js"
+  },  
+  "scripts": {    
+    "start": "node index.js"
   },
   "engines": {
     "node": ">=4.3"
